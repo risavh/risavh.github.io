@@ -24,7 +24,16 @@
         <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h2>
+    
+    <p class="page__meta">
+      {% if post.date %}
+      <i class="fas fa-calendar-alt" aria-hidden="true"></i> {{ post.date | date: "%B %d, %Y" }}
+      {% endif %}
+
+     
+    </p>
+    
     {% include page__meta.html type=include.type %}
-    {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
+     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
   </article>
 </div>
