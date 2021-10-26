@@ -27,6 +27,8 @@ Photo Credits: [Andrew Ridle](https://unsplash.com/@aridley88)
 Tensors are a generalization of matrices to an arbitrary number of dimensions
 (in the context of tensors, a dimension is often called an axis).
 
+Everyting about [Tensor](https://www.tensorflow.org/guide/tensor) .
+
 ## Optimizer
 
 Below optimizers are specific variant of Stochastic Gradient Descent (SGD)
