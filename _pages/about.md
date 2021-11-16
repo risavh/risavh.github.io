@@ -27,7 +27,7 @@ More broadly, I’m interested in machine learning to augment human capabilities
       <td><div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a0613ad2-0630-4303-9cab-7b050440d3d8" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script></td>
     </tr>
     <tr>
-        <td colspan="3"><center>Digital Badges</center></td>
+        <td colspan="4"><center>Digital Badges</center></td>
     </tr>
 </table>
 
