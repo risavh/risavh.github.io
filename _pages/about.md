@@ -1,14 +1,13 @@
 ---
 layout: archive
 permalink: /about/
-title: "About"
+title: "👋Hey, I’m Rishabh"
 author_profile: true
 header:
     image: "/images/milkyway.jpg"
 ---
 
 
-👋**Hey, I’m Rishabh.**
 
 ## About Me
 
