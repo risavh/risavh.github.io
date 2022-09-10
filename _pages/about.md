@@ -21,7 +21,7 @@ header:
 
 <table style="width:100%">
     <tr>
-        <td><a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/56233548"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/56233548"></a></td>
+        <td><a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/56233548"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/56233548"></a></td>
         <td><div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0695ea01-1bc9-433a-a52e-55f3ab446308" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script></td>
       <td><div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="3f3b81fd-87d4-4810-b409-0b243471ab0e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script></td>
       <td><div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a0613ad2-0630-4303-9cab-7b050440d3d8" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script></td>
