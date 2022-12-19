@@ -11,6 +11,9 @@ header:
 
 ## About Me
 
+I lead the data science team at Jetstar Airways where we use data analytics to deliver great travel experiences at affordable costs.
+Before joining Jetstar, I worked as a senior data scientist at GE Aviation and, prior to that, as a Senior Data Engineer at www.hubzu.com, where I developed solutions for the online real estate marketing platform.
+
 - ☀️ Data scientist with a passion for transforming data into meaningful stories and actionable insights.
 - 📈 Led and implemented multiple analytics projects for over 10 years.
 - ❤️ Love to solve challenging problems involving Machine Learning, Deep Learning & NLP.
