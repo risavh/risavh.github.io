@@ -12,16 +12,16 @@ header:
 ## About Me
 <sub>
 I lead the data science team at [Jetstar Airways](https://www.jetstar.com/) where we use data analytics to deliver great travel experiences at affordable costs.
-Before joining Jetstar, I worked as a senior data scientist at [GE Aviation](https://www.geaerospace.com/) and, prior to that, as a Senior Data Engineer at [Hubzu](https://www.hubzu.com), where I developed solutions for the online real estate marketing platform.
+Before joining Jetstar, I worked as a senior data scientist at [GE Aviation](https://www.geaerospace.com/) and, prior to that, as a Senior Data Engineer at [Hubzu](https://www.hubzu.com), where I developed solutions for the online real estate marketing platform.</sub>
 
-- ☀️ Data scientist with a passion for transforming data into meaningful stories and actionable insights.
-- 📈 Led and implemented multiple analytics projects for over 10 years.
-- ❤️ Love to solve challenging problems involving Machine Learning, Deep Learning & NLP.
-- 💬 Ask me about **Machine Learning** , **Python** & **NLP**.
-- ⚡ Fun fact: Foosball champion. 🥇
+- ☀️ <sub>Data scientist with a passion for transforming data into meaningful stories and actionable insights.</sub>
+- 📈 <sub>Led and implemented multiple analytics projects for over 10 years.</sub>
+- ❤️ <sub>Love to solve challenging problems involving Machine Learning, Deep Learning & NLP.</sub>
+- 💬 <sub>Ask me about **Machine Learning** , **Python** & **NLP**.</sub>
+- ⚡ <sub>Fun fact: Foosball champion. 🥇</sub>
 
 
-The views and opinions expressed here are solely my own and do not necessarily reflect those of my employer.</sub>
+<sub>The views and opinions expressed here are solely my own and do not necessarily reflect those of my employer.</sub>
 
 <table style="width:100%">
     <tr>
