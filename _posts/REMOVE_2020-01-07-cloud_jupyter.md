@@ -1,7 +1,7 @@
 ---
 title: 'Data Science in Cloud'
 date: 2020-01-07
-permalink: /posts/2019/12/cloud_jupyter/
+permalink: /remove_posts/2019/12/cloud_jupyter/
 excerpt: This post explores how to set up an environment for training machine learning models in the cloud.
 tags:
   - AWS
